@@ -13,3 +13,4 @@ tables:
 ![Imagen](Images/Captura.PNG)
 ![Imagen](Images/ofertas.PNG)
 ![Imagen](Images/ofertas2.PNG)
+![Imagen](Images/pag2.PNG)
