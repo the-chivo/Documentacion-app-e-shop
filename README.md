@@ -10,4 +10,4 @@ tables:
   - Productos
   - Pedidos
 
-![Imagen](Images/Captura.png)
+![Imagen](Images/Captura.PNG)
