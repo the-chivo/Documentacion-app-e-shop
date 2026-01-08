@@ -9,3 +9,5 @@ tables:
   - Usuario
   - Productos
   - Pedidos
+
+![Imagen](Images/Captura.png)
