@@ -11,3 +11,4 @@ tables:
   - Pedidos
 
 ![Imagen](Images/Captura.PNG)
+![Imagen](Images/ofertas.PNG)
